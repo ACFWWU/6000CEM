@@ -7,6 +7,9 @@ const Navbar = () => {
                 <h1>S.S.System</h1>
             </Link>
         </div>
+        <div className="container">
+            <Link to="/qr">QR</Link>
+        </div>
         </header>
     );
 }
